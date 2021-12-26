@@ -9,8 +9,11 @@ Bu projede uml diyagramını takip ederek pizza sipariş uygulaması oluşturduk
 Admin girişinde ise ürün ekleme ,silme ve güncelleme gibi işlemlerini sql veri tabanı kullanarak gerçekleştirdik.
                                                                                                                                      
 BESTE KÜÇÜK 202802016
+
 ASLI CÖNK 202803063
+
 HAKTAN ÖZYAŞAR 202802023
+
  ![image](https://user-images.githubusercontent.com/73111871/147406366-2b765ddc-0006-45c2-92fd-a13ad368d763.png)
 ![image](https://user-images.githubusercontent.com/73111871/147406372-7dd5c5a0-44b2-4bcd-9aea-98c539045e85.png)
 ![image](https://user-images.githubusercontent.com/73111871/147406378-7610eae0-477c-4889-9282-a8eaee3a13a5.png)
