@@ -1,7 +1,9 @@
 # PIZZAHOUSE
 Nesneye Yönelik Programlama Proje Ödevi
+
 1-ÖDEVİN AMACI
 Verilmiş olan uml diyagramını takip ederek sipariş otomasyonu oluşturmak ve nesneye yönelik programlama mantığını kullanmak.
+
 2-ÖDEVİN KAPSAMI
 Bu projede uml diyagramını takip ederek pizza sipariş uygulaması oluşturduk.Verileri sql database kullanarak kaydettik.Uml diyagramında verilen classları ve nesneleri oluşturduk.Müşteri ve admin girişi olmak üzere 2 farklı giriş ekranı oluşturduk. Müşteri girişinde müşterinin adını ve adresini veritabanıyla kaydettik.Müşterinin verdiği siparişi de veri tabanıyla kaydettik ve sepete ekledik. En son ödeme kısmında 3 farklı seçenekten birini seçtikten sonra doğrulama kodunu başarılı girdiğimizde ödemeyi de tamamlamış oluyoruz.
 Admin girişinde ise ürün ekleme ,silme ve güncelleme gibi işlemlerini sql veri tabanı kullanarak gerçekleştirdik.
@@ -20,5 +22,5 @@ HAKTAN ÖZYAŞAR 202802023
 ![image](https://user-images.githubusercontent.com/73111871/147406402-6287f182-e872-4355-b5a2-881c1721ca54.png)
 ![image](https://user-images.githubusercontent.com/73111871/147406405-bfe59d36-3a76-4f5f-bfc8-8ee7e6d5b05d.png)
 
- ![Uploading image.png…]()
+ 
 
