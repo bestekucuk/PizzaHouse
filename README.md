@@ -1,16 +1,15 @@
 # PIZZAHOUSE
-Nesneye Yönelik Programlama Proje Ödevi
+Object-Oriented Programming Project Assignment
 
-1-ÖDEVİN AMACI:
+1- PURPOSE OF THE ASSIGNMENT:
 
-Verilmiş olan uml diyagramını takip ederek sipariş otomasyonu oluşturmak ve nesneye yönelik programlama mantığını kullanmak.
+The aim is to create an order automation system by following the given UML diagram and utilizing the principles of object-oriented programming.
 
-2-ÖDEVİN KAPSAMI:
+2- SCOPE OF THE ASSIGNMENT:
 
-Bu projede uml diyagramını takip ederek pizza sipariş uygulaması oluşturduk.Verileri sql database kullanarak kaydettik.Uml diyagramında verilen classları ve nesneleri oluşturduk.Müşteri ve admin girişi olmak üzere 2 farklı giriş ekranı oluşturduk. Müşteri girişinde müşterinin adını ve adresini veritabanıyla kaydettik.Müşterinin verdiği siparişi de veri tabanıyla kaydettik ve sepete ekledik. En son ödeme kısmında 3 farklı seçenekten birini seçtikten sonra doğrulama kodunu başarılı girdiğimizde ödemeyi de tamamlamış oluyoruz.
-Admin girişinde ise ürün ekleme ,silme ve güncelleme gibi işlemlerini sql veri tabanı kullanarak gerçekleştirdik.
+In this project, we developed a pizza ordering application by following the UML diagram. We used an SQL database to store data. We created the classes and objects as specified in the UML diagram. We designed two different login screens, one for customers and another for the admin. In the customer login, we saved the customer's name and address in the database. We also saved and added the customer's orders to the cart using the database. Finally, in the payment section, after selecting one of the three different options and successfully entering the verification code, the payment is completed.
+In the admin login, we performed operations like adding, deleting, and updating products using the SQL database.
 
-                                                                                                                                     
 BESTE KÜÇÜK 202802016
 
 ASLI CÖNK 202803063
